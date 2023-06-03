@@ -7,11 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavchaure&label=Profile%20views&color=0e75b6&style=flat" alt="pranavchaure" /> </p>
 
-- 📫 How to reach me **pranavchaure69@gmailcom**
+- 📫 BTech 3rd year under grad at IIIT Nagpur
 
 - 🔭 I’m currently working on **Front End**
 
 - 🌱 I’m currently learning **React Js,Javascript**
+
+- 📩 How to reach me **pranavchaure69@gmailcom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
