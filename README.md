@@ -5,7 +5,7 @@
 <img align="right" width="400" alt="Coding" src="https://i.pinimg.com/originals/09/c7/4c/09c74c130718ce11e07c2d16c558e116.gif"/>
 
 
-- 🏫 Pre-Final Year at IIIT Nagpur pursuing B.Tech in ECE
+- 🏫 Final Year at IIIT Nagpur pursuing B.Tech in ECE
 
 - 🔭 I’m currently working on **Front End**
 
