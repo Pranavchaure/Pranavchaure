@@ -22,6 +22,16 @@
       height="30"
       width="40"
   /></a>
+  <h3 align="left">Coding Platform:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/Pranav0415/" target="blank">
+    <img
+      align="center"
+      src = "https://www.svgrepo.com/show/306328/leetcode.svg"
+      alt="Leetcode"
+      height="30"
+      width="40"
+  /></a>
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
