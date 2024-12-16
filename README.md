@@ -104,6 +104,14 @@
       height="40"
     />
   </a>
+ <a href="https://Nextjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      alt="Nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
